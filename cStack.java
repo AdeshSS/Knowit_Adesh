@@ -68,6 +68,6 @@ public class cStack {
 		System.out.println("----------- Stack Is ---------");
 		for(int i=top;i>=0;i--)
 			System.out.println("\t"+arr[i]);
-		
+		//this is new ds line ghghghg
 	}
 }
